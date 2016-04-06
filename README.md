@@ -10,6 +10,5 @@
 
 ## 參考文獻
 
-筆者聯絡方式
-
-[captainvincenttw@gmail.com](mailto:captainvincenttw@gmail.com)
+## 筆者聯絡方式
+Mail: [captainvincenttw@gmail.com](mailto:captainvincenttw@gmail.com)
