@@ -12,3 +12,5 @@
 
 ## 筆者聯絡方式
 Mail: [captainvincenttw@gmail.com](mailto:captainvincenttw@gmail.com)
+
+Blog: http://captainvincent.github.io/
