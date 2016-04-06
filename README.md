@@ -1,2 +1,1 @@
-# mt4-cooking-book
-Self-Learning Note
+# Metatrader 4 Cooking Book
