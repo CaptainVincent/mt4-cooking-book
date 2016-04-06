@@ -1,3 +1,5 @@
+[電子書連結](https://www.gitbook.com/book/captainvincent/mt4-cooking-book/details)
+
 # Metatrader 4 Cooking Book
 撰寫這本書的初衷, 其實是想作為筆者在追尋交易聖杯的過程中, 所留下的技術做整理, 身為專業 (~~阿宅~~) 工程師, 思考如何運用自動化交易的方式搭配技術分析, 從叢林中找到一些生存的希望, 然而這一切也只是開始。
 
