@@ -9,6 +9,7 @@
 本書內容僅對於如何撰寫 MT4 平台上的交易程式提供分享, 對於筆者在技術分析相關的學習, 則可以參考 [筆者部落格](http://captainvincent.github.io/)。
 
 ## 參考文獻
+https://docs.mql4.com/ (翻譯部分官網文獻)
 
 ## 筆者聯絡方式
 Mail: [captainvincenttw@gmail.com](mailto:captainvincenttw@gmail.com)
