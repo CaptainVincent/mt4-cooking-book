@@ -5,4 +5,5 @@
    * [MT4 操作介面](Chap1/1.2_IntroductionMT4.md)
 * [MQL4 語法](Chap2/2.0_MQL4.md)
    * [Basic](Chap2/2.1_Basic.md)
+   * [DataType](Chap2/2.2_DataType.md)
 
