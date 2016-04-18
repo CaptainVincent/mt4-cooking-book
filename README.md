@@ -11,6 +11,8 @@
 ## 參考文獻
 https://docs.mql4.com/ (翻譯部分官網文獻)
 
+索羅斯都要用的 Metatrader 系列叢書
+
 ## 筆者聯絡方式
 Mail: [captainvincenttw@gmail.com](mailto:captainvincenttw@gmail.com)
 
