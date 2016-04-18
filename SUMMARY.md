@@ -9,4 +9,6 @@
    * [DataType](Chap2/2.2_DataType.md)
 * [MQL4 技術指標](Chap3/3.0_Indicators.md)
 * [歷史資料回測](Chap4/4.0_Backtesting.md)
+   * [UI (使用者介面)](Chap4/4.1_UserInterface.md)
+   * [測試報告說明](Chap4/4.2_ReadReport.md)
 
