@@ -1,3 +1,6 @@
+## Current State
+學習機器學習的 domain knowledge, 對於使用技術指標仍未突破, 尋求其他方式。
+
 [電子書閱讀連結](https://www.gitbook.com/book/captainvincent/mt4-cooking-book/details) (GitBook)
 
 # 寫在最前面
