@@ -1,5 +1,5 @@
 ## Current State
-學習機器學習的 domain knowledge, 對於使用技術指標仍未突破, 尋求其他方式。
+學習機器學習的 domain knowledge, 對於使用技術指標仍未突破, 尋求其他方式來分析技術指標的意涵。
 
 [電子書閱讀連結](https://www.gitbook.com/book/captainvincent/mt4-cooking-book/details) (GitBook)
 
