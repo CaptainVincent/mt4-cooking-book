@@ -1,7 +1,8 @@
 # Current State
-學習機器學習的 domain knowledge, 對於使用技術指標仍未突破, 尋求其他方式來分析技術指標的意涵。
+學習機器學習的 domain knowledge, 對於使用技術指標仍未突破, 尋求其他方式(機器學習)來分析技術指標的意涵。
 
-[電子書閱讀連結](https://www.gitbook.com/book/captainvincent/mt4-learning-note/details) (GitBook)
+# Book Link
+[電子書閱讀連結](https://www.gitbook.com/book/captainvincent/mt4-cooking-book/details) (GitBook)
 
 # 寫在最前面
 撰寫這本書的初衷, 其實是想作為筆者在追尋交易聖杯的過程中, 所留下的技術做整理, 身為專業 (~~阿宅~~) 工程師, 思考如何運用自動化交易的方式搭配技術分析, 從叢林中找到一些生存的希望, 然而這一切也只是開始。
@@ -20,7 +21,6 @@ https://docs.mql4.com/ (翻譯部分官網文獻)
 Mail: [captainvincenttw@gmail.com](mailto:captainvincenttw@gmail.com)
 
 Blog: http://captainvincent.github.io/
-
 
 ## 授權方式
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
